@@ -1,16 +1,22 @@
-## GENERAL BOT APP
+IyMgR0VORVJBTCBCT1QgQVBQCgpHRU5FUkFMIEJvdCBBcHBsaWthc2kgdW50
+dWsgbWVuamFsYW5rYW4gYm90IC8gdXNlcmJvdCBkYXJpIGJlcmJhZ2FpIHBs
+YXRmb3JtCgo8aW1nIHdpZHRoPSIxMDAlIiBhbHQ9IkdMWCBCT1QgQVBQIEJh
+bm5lciIgc3JjPSJodHRwczovL2dpdGh1Yi5jb20vYXprYWRldi9nbHhfYm90
+X2FwcC9hc3NldHMvODI1MTM1MDIvNmIwYTg5YTYtOWNiMS00NWY1LWJjMmIt
+MzEwYjJjZTEyZTdkIj4KICAKIyMgRG93bmxvYWQKICAgCiAgIFNpbGFoa2Fu
+IENhcmkgc2VuZGlyaSBkaXNpbmkgeWEgW0dFTkVSQUwgUFVCTElDIEZJTEVT
+XShodHRwczovL3QubWUvR0VORVJBTF9QVUJMSUNfRklMRVMvMTkpIFNJTEFI
+S0FOIFBJTElIIFlhbmQgQURBICNnZW5lcmFsX2JvdF9hcHAgI2F6a2FkZXZf
+Ym90X2FwcCAoYmViYXMgcGlsaWggbWF1IHlhbmcgbWFuYSB5YW5nIHBlbnRp
+bmcgYWRhIGthdGEgKipfYm90X2FwcCoqIGRpIGFraGlyIGthbGltYXQpCgpB
+cHAgaW5pIGJpc2EgbG9naW4gKipncmF0aXMqKiBwYWthaSBha3VuIGdpdGh1
+YiBrYWxvIG1hdSAqKmZpdHVyIGxlYmloIGJhbnlhayoqIGxvZ2luIHBha2Fp
+IGFrdW4geWEgQklBWUEgREFGVEFSIFRlcmdhbnR1bmcgbWFzaW5nIG1hc2lu
+ZyBwbGF0Zm9ybSAvIGFwcAogCgojIyBUdXRvcmlhbAoKWyFbMjAyMzA3MTdf
+MTI1NDQ3XShodHRwczovL2dpdGh1Yi5jb20vYXprYWRldi9nbHhfYm90X2Fw
+cC9hc3NldHMvODI1MTM1MDIvNmIwYTg5YTYtOWNiMS00NWY1LWJjMmItMzEw
+YjJjZTEyZTdkKV0oaHR0cHM6Ly95b3V0dS5iZS9IamdENlpoU0ZJQSkK
 
-GENERAL Bot Applikasi untuk menjalankan bot / userbot dari berbagai platform
-
-<img width="100%" alt="GLX BOT APP Banner" src="https://github.com/azkadev/glx_bot_app/assets/82513502/6b0a89a6-9cb1-45f5-bc2b-310b2ce12e7d">
-  
-## Download
-   
-   Silahkan Cari sendiri disini ya [GENERAL PUBLIC FILES](https://t.me/GENERAL_PUBLIC_FILES/19) SILAHKAN PILIH Yand ADA #general_bot_app #azkadev_bot_app (bebas pilih mau yang mana yang penting ada kata **_bot_app** di akhir kalimat)
-
-App ini bisa login **gratis** pakai akun github kalo mau **fitur lebih banyak** login pakai akun ya BIAYA DAFTAR Tergantung masing masing platform / app
- 
-
-## Tutorial
-
-[![20230717_125447](https://github.com/azkadev/glx_bot_app/assets/82513502/6b0a89a6-9cb1-45f5-bc2b-310b2ce12e7d)](https://youtu.be/HjgD6ZhSFIA)
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
